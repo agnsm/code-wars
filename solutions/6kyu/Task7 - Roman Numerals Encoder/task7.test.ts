@@ -1,7 +1,5 @@
 import { assert } from 'chai';
-
 import { solution } from './task7';
-
 
 describe('solution', function(){
   it('basic', function(){
